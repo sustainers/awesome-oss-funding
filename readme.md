@@ -47,7 +47,7 @@
 ## Licensing
 
 - [License Zero](https://licensezero.com) - For-profit licenses for OSS projects.
-- [xcdode](https://xscode.com) - Paid subscriptions for OSS projects.
+- [xs:code](https://xscode.com) - Paid subscriptions for OSS projects.
 
 
 ## Articles
