@@ -22,7 +22,7 @@
 - [Saasify](https://saasify.sh) - Provides monetized APIs on top of OSS projects.
 - [Codefund](https://codefund.io) - Provides funding for makers via ethical ads.
 - [Tidelift](https://tidelift.com) - Provides subscriptions connecting businesses with OSS devs.
-- [FOSSA](https://fossa.com) - Open Source Management for Enterprise Teams.
+- [FOSSA](https://fossa.com) - Open source management for enterprise teams.
 - [Gitcoin](https://gitcoin.co) - Crowdfunding and freelance devs for your software projects.
 
 
@@ -62,9 +62,9 @@
 - [Open core vs SaaS](https://gravitational.com/blog/open-core-vs-saas-intro)
 - [The internet relies on people working for free](https://onezero.medium.com/the-internet-relies-on-people-working-for-free-a79104a68bcc)
 - [Open Core Summit Intro](https://www.infoq.com/news/2019/10/open-core-summit-intro)
-- [Commercializing open source](https://a16z.com/2019/10/04/commercializing-open-source) - By [a16z](https://a16z.com)
-- [What comes after open source?](https://a16z.com/2019/01/22/what-comes-after-open-source) - By [a16z](https://a16z.com)
-- [Passion Economy](https://a16z.com/2019/10/08/passion-economy) - By [a16z](https://a16z.com)
+- [Commercializing open source](https://a16z.com/2019/10/04/commercializing-open-source) - By [a16z](https://a16z.com).
+- [What comes after open source?](https://a16z.com/2019/01/22/what-comes-after-open-source) - By [a16z](https://a16z.com).
+- [Passion Economy](https://a16z.com/2019/10/08/passion-economy) - By [a16z](https://a16z.com).
 - [What is subscription based open source?](https://xscode.com/94/what-is-subscription-based-open-source)
 - [Open core definition and tradeoffs](https://medium.com/open-consensus/2-open-core-definition-examples-tradeoffs-e4d0c044da7c)
 - [COSS business models](https://coss.media/coss-business-model-progressions)
