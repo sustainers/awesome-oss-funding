@@ -1,0 +1,15 @@
+{
+  "name": "awesome-oss-funding",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "license": "CC0",
+  "scripts": {
+    "test": "awesome-lint readme.md",
+    "toc": "markdown-toc -i readme.md"
+  },
+  "devDependencies": {
+    "awesome-lint": "^0.12.0",
+    "markdown-toc": "^1.2.0"
+  }
+}
