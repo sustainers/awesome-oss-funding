@@ -24,6 +24,7 @@
 - [Tidelift](https://tidelift.com) - Provides subscriptions connecting businesses with OSS devs.
 - [FOSSA](https://fossa.com) - Open source management for enterprise teams.
 - [Gitcoin](https://gitcoin.co) - Crowdfunding and freelance devs for your software projects.
+- [Back Your Stack](https://backyourstack.com) - Discover your dependencies and financially support them.
 
 
 ## Donations
