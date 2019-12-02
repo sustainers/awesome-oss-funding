@@ -20,7 +20,7 @@
 ## Products
 
 - [Saasify](https://saasify.sh) - Provides monetized APIs on top of OSS projects.
-- [Codefund](https://codefund.io) - Provides funding for makers via ethical ads.
+- [CodeFund](https://codefund.io) - Provides funding for makers via ethical ads.
 - [Tidelift](https://tidelift.com) - Provides subscriptions connecting businesses with OSS devs.
 - [FOSSA](https://fossa.com) - Open source management for enterprise teams.
 - [Gitcoin](https://gitcoin.co) - Crowdfunding and freelance devs for your software projects.
