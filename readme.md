@@ -70,6 +70,8 @@
 - [Open core definition and tradeoffs](https://medium.com/open-consensus/2-open-core-definition-examples-tradeoffs-e4d0c044da7c)
 - [COSS business models](https://coss.media/coss-business-model-progressions)
 - [Creating OSS value != Capturing OSS value](https://coss.media/creating-oss-value-capturing-oss-value)
+- [The broken economics of OSS](https://medium.com/@mattklein123/the-broken-economics-of-oss-5a1b31fc0182)
+- [The OSS model is under siege](https://www.influxdata.com/blog/the-open-source-database-business-model-is-under-siege/)
 
 
 ## Organizations
