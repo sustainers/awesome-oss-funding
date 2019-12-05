@@ -25,7 +25,7 @@
 - [FOSSA](https://fossa.com) - Open source management for enterprise teams.
 - [Gitcoin](https://gitcoin.co) - Crowdfunding and freelance devs for your software projects.
 - [Back Your Stack](https://backyourstack.com) - Discover your dependencies and financially support them.
-- [Scarf](https://scarf.sh) - Distribute your CLI tools through a package manager with built-in payments and usage analytics.
+- [Scarf](https://scarf.sh) - Provides monetized CLIs for OSS projects.
 
 
 ## Donations
