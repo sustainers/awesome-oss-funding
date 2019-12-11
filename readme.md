@@ -39,6 +39,7 @@
 - [Liberapay](https://liberapay.com) - Recurring donations for OSS projects.
 - [Flattr](https://flattr.com) - Monthly subscription for donating to OSS projects.
 - [thanks](https://github.com/feross/thanks) - Give thanks to the open source maintainers you depend on.
+- [Ko-fi](https://ko-fi.com) - Single and recurring donations for your projects without platform fees.
 
 
 ## Bounties
