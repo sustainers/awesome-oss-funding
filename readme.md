@@ -75,9 +75,8 @@
 - [Creating OSS value != Capturing OSS value](https://coss.media/creating-oss-value-capturing-oss-value)
 - [The broken economics of OSS](https://medium.com/@mattklein123/the-broken-economics-of-oss-5a1b31fc0182)
 - [The OSS model is under siege](https://www.influxdata.com/blog/the-open-source-database-business-model-is-under-siege/)
-- [What is subscription based open source](https://xscode.com/94/what-is-subscription-based-open-source/)
-- [The world runs on open-source, but who’s paying for gas?](https://xscode.com/433/the-world-runs-on-open-source-but-whos-paying-for-gas/)
-
+- [What is subscription based open source](https://xscode.com/94/what-is-subscription-based-open-source/) - By [Chen D. Ravid](https://twitter.com/chen_d_ravid)
+- [The world runs on open-source, but who’s paying for gas?](https://xscode.com/433/the-world-runs-on-open-source-but-whos-paying-for-gas/) - By [Netanel Mohoni](https://twitter.com/NetanelMohoni)
 
 ## Organizations
 
