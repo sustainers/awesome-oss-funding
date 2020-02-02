@@ -26,6 +26,7 @@
 - [Gitcoin](https://gitcoin.co) - Crowdfunding and freelance devs for your software projects.
 - [Back Your Stack](https://backyourstack.com) - Discover your dependencies and financially support them.
 - [Scarf](https://scarf.sh) - Provides monetized CLIs for OSS projects.
+- [xs:code](https://xscode.com) - Paid subscriptions for OSS projects.
 
 
 ## Donations
@@ -35,9 +36,10 @@
 - [Open Collective](https://opencollective.com) - Open communities with full financial transparency.
 - [Buy me a coffee](https://www.buymeacoffee.com) - Donations and relationship building for independent creators.
 - [Salt](https://salt.bountysource.com) - Crowdfunding to help devs earn a monthly salary from OSS.
-- [Libera](https://liberapay.com) - Recurring donations for OSS projects.
+- [Liberapay](https://liberapay.com) - Recurring donations for OSS projects.
 - [Flattr](https://flattr.com) - Monthly subscription for donating to OSS projects.
 - [thanks](https://github.com/feross/thanks) - Give thanks to the open source maintainers you depend on.
+- [Ko-fi](https://ko-fi.com) - Single and recurring donations for your projects without platform fees.
 
 
 ## Bounties
@@ -49,7 +51,7 @@
 ## Licensing
 
 - [License Zero](https://licensezero.com) - For-profit licenses for OSS projects.
-- [xs:code](https://xscode.com) - Paid subscriptions for OSS projects.
+
 
 
 ## Articles
@@ -73,6 +75,8 @@
 - [Creating OSS value != Capturing OSS value](https://coss.media/creating-oss-value-capturing-oss-value)
 - [The broken economics of OSS](https://medium.com/@mattklein123/the-broken-economics-of-oss-5a1b31fc0182)
 - [The OSS model is under siege](https://www.influxdata.com/blog/the-open-source-database-business-model-is-under-siege/)
+- [What is subscription based open source](https://xscode.com/94/what-is-subscription-based-open-source/)
+- [The world runs on open-source, but who’s paying for gas?](https://xscode.com/433/the-world-runs-on-open-source-but-whos-paying-for-gas/)
 
 
 ## Organizations
