@@ -76,6 +76,7 @@
 - [The broken economics of OSS](https://medium.com/@mattklein123/the-broken-economics-of-oss-5a1b31fc0182)
 - [The OSS model is under siege](https://www.influxdata.com/blog/the-open-source-database-business-model-is-under-siege/)
 - [The world runs on open-source, but who’s paying for gas?](https://xscode.com/433/the-world-runs-on-open-source-but-whos-paying-for-gas/)
+- [GitHub stars won’t pay your rent](https://medium.com/@kitze/github-stars-wont-pay-your-rent-8b348e12baed)
 
 
 ## Organizations
