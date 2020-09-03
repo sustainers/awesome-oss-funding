@@ -40,6 +40,7 @@
 - [Flattr](https://flattr.com) - Monthly subscription for donating to OSS projects.
 - [thanks](https://github.com/feross/thanks) - Give thanks to the open source maintainers you depend on.
 - [Ko-fi](https://ko-fi.com) - Single and recurring donations for your projects without platform fees.
+- [LibreSelery](https://github.com/protontypes/libreselery) - Distribute donations to contributors without a middleman or fees
 
 
 ## Bounties
@@ -76,6 +77,8 @@
 - [The broken economics of OSS](https://medium.com/@mattklein123/the-broken-economics-of-oss-5a1b31fc0182)
 - [The OSS model is under siege](https://www.influxdata.com/blog/the-open-source-database-business-model-is-under-siege/)
 - [The world runs on open-source, but who’s paying for gas?](https://xscode.com/433/the-world-runs-on-open-source-but-whos-paying-for-gas/)
+- [LibreSelery solves the Donation Distribution Problem in Free Software](https://protontypes.eu/blog/2020/09/02/launch-of-protontypes/)
+
 
 
 ## Organizations
