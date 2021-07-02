@@ -27,6 +27,7 @@
 - [Back Your Stack](https://backyourstack.com) - Discover your dependencies and financially support them.
 - [Scarf](https://scarf.sh) - Provides monetized CLIs for OSS projects.
 - [xs:code](https://xscode.com) - Paid subscriptions for OSS projects.
+- [Flossbank](https://enterprise.flossbank.com) - Provides distribution mechanism to contribute to all the dependencies of your organization, all the way down the dep tree.
 
 
 ## Donations
@@ -76,6 +77,7 @@
 - [The broken economics of OSS](https://medium.com/@mattklein123/the-broken-economics-of-oss-5a1b31fc0182)
 - [The OSS model is under siege](https://www.influxdata.com/blog/the-open-source-database-business-model-is-under-siege/)
 - [The world runs on open-source, but who’s paying for gas?](https://xscode.com/433/the-world-runs-on-open-source-but-whos-paying-for-gas/)
+- [Supporting packages below the waterline with Flossbank](https://medium.com/octobox/octobox-is-supporting-its-dependencies-32f61037c5d4)
 
 
 ## Organizations
